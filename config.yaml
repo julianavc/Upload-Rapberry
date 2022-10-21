@@ -1,0 +1,4 @@
+---
+azure_storage_connectionstring: "ConnectionString"
+imgprediction_container_name: "ContainerName"
+source_folder: "Local Folder"
